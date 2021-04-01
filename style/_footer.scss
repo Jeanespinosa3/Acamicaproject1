@@ -1,0 +1,21 @@
+footer{
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+    justify-content: center;
+    padding: 24px 45px;
+    color: $color-sec;
+    p{
+        font-family: $font-mono;
+        padding-top: 1rem ;
+        line-height: 22px;
+        color:$color-sec;
+        font-size: 14px;
+    }
+    ul{
+        padding-top: 16px;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+}
