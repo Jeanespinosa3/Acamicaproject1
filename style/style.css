@@ -393,6 +393,14 @@ footer ul {
           justify-content: space-between;
 }
 
+footer ul i {
+  color: #0000EC;
+}
+
+footer ul i:hover {
+  color: #00F0B8;
+}
+
 /* Codigo para desktop*/
 @media only screen and (min-width: 1024px) {
   header {

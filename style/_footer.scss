@@ -16,6 +16,13 @@ footer{
         padding-top: 16px;
         list-style: none;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-between;  
+        i{
+            color: $color-primario;
+        }
+        i:hover{
+            color:  #00F0B8;
+        }
+        }
+        
     }
-}
